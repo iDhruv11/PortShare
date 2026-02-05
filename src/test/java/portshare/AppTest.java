@@ -3,8 +3,6 @@ package portshare;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import org.junit.jupiter.api.Test;
-import portshare.*;.service.FileSharer;
-import portshare.*;.service.RecieverServer;
 
 /**
  * Unit test for simple App.
