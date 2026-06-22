@@ -3,6 +3,8 @@
 
 Portshare is a lightweight file sharing application that lets users upload a file and share it with others using a simple invite code. The project combines a Java backend with a modern Next.js frontend to provide a straightforward file transfer experience.
 
+You can also check out **PeerShare** ([repo](https://github.com/iDhruv11/PeerShare.git)), a WebRTC-powered evolution of Portshare that eliminates server-side file storage and enables direct peer-to-peer file transfer and messaging.
+
 ---
 
 ## Overview
